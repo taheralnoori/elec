@@ -1,4 +1,4 @@
-   body {
+      body {
         font-family: Arial, Helvetica, sans-serif;
       }
 
@@ -154,12 +154,12 @@
       .site-footer .stars-rating-active,
       .site-footer .twitter-icon-wrap span,
       .site-info a:hover {
-        color: #000000;
+        color: #FF0000;
       }
 
       #instagram-link a:hover {
-        color: #000000 !important;
-        border-color: #000000 !important;
+        color: #FF0000 !important;
+        border-color: #FF0000 !important;
       }
 
       #theme-header #main-nav .spinner-circle:after {
@@ -217,7 +217,7 @@
       span.video-close-btn:hover,
       #go-to-top,
       .latest-tweets-widget .slider-links .button:not(:hover) {
-        background-color: #000000;
+        background-color: #FF0000;
         color: #FFFFFF;
       }
 
@@ -237,16 +237,16 @@
       .main-nav .mega-menu.mega-cat .cats-horizontal li a.is-active,
       .main-nav .mega-menu.mega-cat .cats-horizontal li a:hover,
       .main-menu .menu>li>.menu-sub-content {
-        border-color: #000000;
+        border-color: #FF0000;
       }
 
       .main-menu .menu>li.tie-current-menu {
-        border-bottom-color: #000000;
+        border-bottom-color: #FF0000;
       }
 
       .top-nav .menu li.tie-current-menu>a:before,
       .top-nav .menu li.menu-item-has-children:hover>a:before {
-        border-top-color: #000000;
+        border-top-color: #FF0000;
       }
 
       .main-nav .main-menu .menu>li.tie-current-menu>a:before,
@@ -256,41 +256,41 @@
 
       header.main-nav-light .main-nav .menu-item-has-children li:hover>a:before,
       header.main-nav-light .main-nav .mega-menu li:hover>a:before {
-        border-left-color: #000000;
+        border-left-color: #FF0000;
       }
 
       .rtl header.main-nav-light .main-nav .menu-item-has-children li:hover>a:before,
       .rtl header.main-nav-light .main-nav .mega-menu li:hover>a:before {
-        border-right-color: #000000;
+        border-right-color: #FF0000;
         border-left-color: transparent;
       }
 
       .top-nav ul.menu li .menu-item-has-children:hover>a:before {
         border-top-color: transparent;
-        border-left-color: #000000;
+        border-left-color: #FF0000;
       }
 
       .rtl .top-nav ul.menu li .menu-item-has-children:hover>a:before {
         border-left-color: transparent;
-        border-right-color: #000000;
+        border-right-color: #FF0000;
       }
 
       ::-moz-selection {
-        background-color: #000000;
+        background-color: #FF0000;
         color: #FFFFFF;
       }
 
       ::selection {
-        background-color: #000000;
+        background-color: #FF0000;
         color: #FFFFFF;
       }
 
       circle.circle_bar {
-        stroke: #000000;
+        stroke: #FF0000;
       }
 
       #reading-position-indicator {
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+        box-shadow: 0 0 10px rgba(255, 0, 0, 0.7);
       }
 
       #logo.text-logo a:hover,
@@ -300,7 +300,7 @@
       .block-head-4.magazine2 .site-footer .tabs li a:hover,
       q a:hover,
       blockquote a:hover {
-        color: #000000;
+        color: #cd0000;
       }
 
       .button:hover,
@@ -313,7 +313,7 @@
       .search-in-main-nav.autocomplete-suggestions a.button:hover,
       .search-in-top-nav.autocomplete-suggestions a.button:hover,
       .theme-header .header-nav .comp-sub-menu a.checkout-button:hover {
-        background-color: #000000;
+        background-color: #cd0000;
         color: #FFFFFF;
       }
 
@@ -323,7 +323,7 @@
       }
 
       #story-index.is-compact .story-index-content {
-        background-color: #000000;
+        background-color: #FF0000;
       }
 
       #story-index.is-compact .story-index-content a,
@@ -333,25 +333,25 @@
 
       #tie-body .mag-box-title h3 a,
       #tie-body .block-more-button {
-        color: #000000;
+        color: #FF0000;
       }
 
       #tie-body .mag-box-title h3 a:hover,
       #tie-body .block-more-button:hover {
-        color: #000000;
+        color: #cd0000;
       }
 
       #tie-body .mag-box-title {
-        color: #000000;
+        color: #FF0000;
       }
 
       #tie-body .mag-box-title:before {
-        border-top-color: #000000;
+        border-top-color: #FF0000;
       }
 
       #tie-body .mag-box-title:after,
       #tie-body #footer .widget-title:after {
-        background-color: #000000;
+        background-color: #FF0000;
       }
 
       .brand-title,
@@ -401,12 +401,12 @@
       .site-footer .stars-rating-active,
       .site-footer .twitter-icon-wrap span,
       .site-info a:hover {
-        color: #000000;
+        color: #FF0000;
       }
 
       #instagram-link a:hover {
-        color: #000000 !important;
-        border-color: #000000 !important;
+        color: #FF0000 !important;
+        border-color: #FF0000 !important;
       }
 
       #theme-header #main-nav .spinner-circle:after {
@@ -464,7 +464,7 @@
       span.video-close-btn:hover,
       #go-to-top,
       .latest-tweets-widget .slider-links .button:not(:hover) {
-        background-color: #000000;
+        background-color: #FF0000;
         color: #FFFFFF;
       }
 
@@ -484,16 +484,16 @@
       .main-nav .mega-menu.mega-cat .cats-horizontal li a.is-active,
       .main-nav .mega-menu.mega-cat .cats-horizontal li a:hover,
       .main-menu .menu>li>.menu-sub-content {
-        border-color: #000000;
+        border-color: #FF0000;
       }
 
       .main-menu .menu>li.tie-current-menu {
-        border-bottom-color: #000000;
+        border-bottom-color: #FF0000;
       }
 
       .top-nav .menu li.tie-current-menu>a:before,
       .top-nav .menu li.menu-item-has-children:hover>a:before {
-        border-top-color: #000000;
+        border-top-color: #FF0000;
       }
 
       .main-nav .main-menu .menu>li.tie-current-menu>a:before,
@@ -503,41 +503,41 @@
 
       header.main-nav-light .main-nav .menu-item-has-children li:hover>a:before,
       header.main-nav-light .main-nav .mega-menu li:hover>a:before {
-        border-left-color: #000000;
+        border-left-color: #FF0000;
       }
 
       .rtl header.main-nav-light .main-nav .menu-item-has-children li:hover>a:before,
       .rtl header.main-nav-light .main-nav .mega-menu li:hover>a:before {
-        border-right-color: #000000;
+        border-right-color: #FF0000;
         border-left-color: transparent;
       }
 
       .top-nav ul.menu li .menu-item-has-children:hover>a:before {
         border-top-color: transparent;
-        border-left-color: #000000;
+        border-left-color: #FF0000;
       }
 
       .rtl .top-nav ul.menu li .menu-item-has-children:hover>a:before {
         border-left-color: transparent;
-        border-right-color: #000000;
+        border-right-color: #FF0000;
       }
 
       ::-moz-selection {
-        background-color: #000000;
+        background-color: #FF0000;
         color: #FFFFFF;
       }
 
       ::selection {
-        background-color: #000000;
+        background-color: #FF0000;
         color: #FFFFFF;
       }
 
       circle.circle_bar {
-        stroke: #000000;
+        stroke: #FF0000;
       }
 
       #reading-position-indicator {
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+        box-shadow: 0 0 10px rgba(255, 0, 0, 0.7);
       }
 
       #logo.text-logo a:hover,
@@ -547,7 +547,7 @@
       .block-head-4.magazine2 .site-footer .tabs li a:hover,
       q a:hover,
       blockquote a:hover {
-        color: #000000;
+        color: #cd0000;
       }
 
       .button:hover,
@@ -560,7 +560,7 @@
       .search-in-main-nav.autocomplete-suggestions a.button:hover,
       .search-in-top-nav.autocomplete-suggestions a.button:hover,
       .theme-header .header-nav .comp-sub-menu a.checkout-button:hover {
-        background-color: #000000;
+        background-color: #cd0000;
         color: #FFFFFF;
       }
 
@@ -570,7 +570,7 @@
       }
 
       #story-index.is-compact .story-index-content {
-        background-color: #000000;
+        background-color: #FF0000;
       }
 
       #story-index.is-compact .story-index-content a,
@@ -580,25 +580,25 @@
 
       #tie-body .mag-box-title h3 a,
       #tie-body .block-more-button {
-        color: #000000;
+        color: #FF0000;
       }
 
       #tie-body .mag-box-title h3 a:hover,
       #tie-body .block-more-button:hover {
-        color: #000000;
+        color: #cd0000;
       }
 
       #tie-body .mag-box-title {
-        color: #000000;
+        color: #FF0000;
       }
 
       #tie-body .mag-box-title:before {
-        border-top-color: #000000;
+        border-top-color: #FF0000;
       }
 
       #tie-body .mag-box-title:after,
       #tie-body #footer .widget-title:after {
-        background-color: #000000;
+        background-color: #FF0000;
       }
 
       ::-moz-selection {
